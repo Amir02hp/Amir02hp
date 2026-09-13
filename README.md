@@ -1,29 +1,18 @@
 # Amir
 
-AI & Robotics researcher interested in the intersection of:
-
-- Humanoid robotics
-- Nonlinear and optimal control
-- Model Predictive Control (MPC/NMPC)
-- Whole-body and contact-aware control
-- Robot dynamics and system identification
-- Learning-based control and adaptation
-- Symbolic regression and interpretable models
-- Mathematical foundations of AI and intelligent systems
+AI & Robotics researcher
 
 ## Current Research
 
-### Humanoid Terrain Adaptation
-
 I am currently working on model-based control for humanoid robots, with a focus on:
 
-- Floating-base and contact dynamics
-- Centroidal dynamics
 - Whole-body control
 - Nonlinear Model Predictive Control
 - Terrain-aware locomotion
 - Online adaptation of control objectives
 - Learning and symbolic methods for interpretable adaptation
+- causal/Moe latent World Models
+- Adaptive Dynamics
 
 The central idea is to keep the physical dynamics model and constrained optimizer explicit, while allowing a learned system to adapt the optimization objective according to the robot's interaction with the environment.
 
@@ -41,7 +30,7 @@ I am interested in more general questions surrounding:
 
 ## Tools
 
-Python · C++ · MuJoCo · Pinocchio · CasADi · PyTorch · ROS 2
+Python · C++ · MuJoCo · Pinocchio · CasADi · PyTorch · ROS 2 . Genesis
 
 ## Philosophy
 
