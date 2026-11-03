@@ -6,7 +6,7 @@ AI & Robotics researcher
 
 I am currently working on model-based control for humanoid robots, with a focus on:
 
-- Whole-body control
+- Adaptive world models
 - Nonlinear Model Predictive Control
 - Terrain-aware locomotion
 - Online adaptation of control objectives
