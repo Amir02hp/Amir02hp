@@ -6,12 +6,11 @@ AI & Robotics researcher
 
 I am currently working on model-based control for humanoid robots, with a focus on:
 
-- Adaptive world models
+- World Models
 - Nonlinear Model Predictive Control
 - Terrain-aware locomotion
-- Online adaptation of control objectives
 - Learning and symbolic methods for interpretable adaptation
-- causal/Moe latent World Models
+- Causal World Models
 - Adaptive Dynamics
 
 The central idea is to keep the physical dynamics model and constrained optimizer explicit, while allowing a learned system to adapt the optimization objective according to the robot's interaction with the environment.
